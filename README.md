@@ -24,6 +24,7 @@
 <a href="https://web.whatsapp.com/send/?phone=5562996173322"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://github.com/ac7wesley"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
+
 ### Lista de 2024:
 - [x] Concluir o Curso de Git e GitHub.
 - [ ] Treinar comandos do Git e GitHub desktop.
