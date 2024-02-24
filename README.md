@@ -12,7 +12,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img align="center" alt="ac7wesley javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)" target="_blank"><img align="center" alt="ac7wesley react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="center" alt="ac7wesley git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></a>
-<a href="https://pt.wikipedia.org/wiki/GitHub" torget="_blank"><img align="center" alt="ac7wesley github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></a>
+<a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank"><img align="center" alt="ac7wesley github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></a>
 <a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank"><img align="center" alt="ac7wesley wordpress" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"><img align="center" alt="ac7wesley vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 </div>
