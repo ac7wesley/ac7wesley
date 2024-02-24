@@ -7,8 +7,9 @@
 ### 🛠️⚙️ Habilidades em estudos
 
 <div style="display: inline_block">
-<img align="center" alt="ac7wesley html5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="ac7wesley CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="ac7wesley javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<a href="https://pt.wikipedia.org/wiki/HTML5"><img align="center" alt="ac7wesley html5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="ac7wesley CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img align="center" alt="ac7wesley javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 <img align="center" alt="ac7wesley react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="ac7wesley git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"><img align="center" alt="ac7wesley github" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"><img align="center" alt="ac7wesley wordpress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img align="center" alt="ac7wesley vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
