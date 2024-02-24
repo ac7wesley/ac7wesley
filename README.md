@@ -25,9 +25,9 @@
 <a href="https://github.com/ac7wesley"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-### Lista de 2024:
+### 📘📜Lista de 2024:
 - [x] Concluir o Curso de Git e GitHub.
-- [ ] Treinar comandos do Git e GitHub desktop.
-- [ ] Aprender comandos Git do prompt de comandos.
+- [x] Treinar comandos do Git e GitHub desktop.
+- [ ] Aprender comandos Git no console.
 - [ ] Estudar HTML e CSS.
 - [ ] Estudar JavaScript.
