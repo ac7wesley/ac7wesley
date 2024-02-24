@@ -17,7 +17,7 @@
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="ac7wesley vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 </div>
 
-#### 📱📧 Contatos
+### 📱📧 Contatos
 
 <div>
 <a href="mailto:ac7wesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
