@@ -27,12 +27,15 @@
 <a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank" rel="noopener noreferrer"><img align="center" alt="ac7wesley github" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></a>
 <a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank" rel="noopener noreferrer"><img align="center" alt="ac7wesley wordpress" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noopener noreferrer"><img align="center" alt="ac7wesley vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+<br><br>
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac7wesley&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ac7wesley&theme=react&utcOffset=3)
 <div>
-   <br>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac7wesley&layout=compact&theme=dracula">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac7wesley&theme=tokyonight">
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula"> -->
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ac7wesley&theme=tokyonight"> -->
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac7wesley&layout=compact&theme=tokyonight"> -->
 </div>
 
 ### 📱📧 Contatos
@@ -50,6 +53,8 @@
 - [ ] Aprender comandos Git no console.
 - [ ] Estudar HTML e CSS.
 - [ ] Estudar JavaScript.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ac7wesley&theme=react)
 
 <!--
 <div>
