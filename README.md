@@ -2,7 +2,7 @@
 
 💻📚 - Estudante de Analista e Desenvolvimento de Sistemas <br>
 
-![ac7Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula)
+![ac7Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula) 
 
 ### 🛠️⚙️ Habilidades em estudos
 
@@ -31,3 +31,7 @@
 - [ ] Aprender comandos Git no console.
 - [ ] Estudar HTML e CSS.
 - [ ] Estudar JavaScript.
+
+<div>
+   <img height="250" width="750" src="https://github.com/ac7wesley/ac7wesley/assets/155499214/4d2f59ae-cc3b-4b32-b578-d050723098ac"> 
+</div>
