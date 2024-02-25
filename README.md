@@ -4,7 +4,7 @@
 
 ![ac7Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula) 
 
-### 🛠️⚙️ Habilidades em estudos
+### 🛠️⚙️ Habilidades em estudos / Hard Skills
 
 <div style="display: inline_block">
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank" rel="noopener noreferrer"><img align="center" alt="ac7wesley html5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
