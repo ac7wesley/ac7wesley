@@ -9,8 +9,8 @@
       <td align="center"><b>📂 Desenvolvimento do Sistemas</b></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/ac7wesley/ac7wesley/assets/155499214/0f48a3cf-3ae3-4583-86d7-93e165b79bf2" width="300px" height="200px"></td>
-      <td><img src="https://github.com/ac7wesley/ac7wesley/assets/155499214/41574efc-1931-46f1-b252-1cdbac27d285" width="300px" height="200px"> </td>
+      <td><img src="https://github.com/ac7wesley/ac7wesley/assets/155499214/0f48a3cf-3ae3-4583-86d7-93e165b79bf2" width="314px" height="200px"></td>
+      <td><img src="https://github.com/ac7wesley/ac7wesley/assets/155499214/41574efc-1931-46f1-b252-1cdbac27d285" width="314px" height="200px"> </td>
     </tr>
   </table>
 </div>
