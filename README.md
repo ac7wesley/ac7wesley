@@ -32,7 +32,7 @@
 <a href="https://pt.wikipedia.org/wiki/GitHub" target="_blank" rel="noopener noreferrer">
    <img align="center" alt="ac7wesley github" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></a>
 <a href="https://codex.wordpress.org/pt-br:P%C3%A1gina_Inicial" target="_blank" rel="noopener noreferrer">
-   <img align="center" alt="ac7wesley wordpress" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"></a>
+   <img align="center" alt="ac7wesley wordpress" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg"></a>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noopener noreferrer">
    <img align="center" alt="ac7wesley vscode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
 <br><br>
