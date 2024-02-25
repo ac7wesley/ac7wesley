@@ -1,4 +1,5 @@
-### Olá, tudo bem? Wesley Alves aqui, blz! 🤙🏾
+### Olá, tudo bem? Wesley Alves aqui! 🤙🏾
+##### Seja bem-vindo ao meu perfil. 🤩😎
 
 💻📚 - Estudante de Análise e Desenvolvimento de Sistemas <br>
 <div>
