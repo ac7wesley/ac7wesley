@@ -1,8 +1,10 @@
 ### Olá, tudo bem? Wesley Alves aqui, blz! 🤙🏾
 
 💻📚 - Estudante de Analista e Desenvolvimento de Sistemas <br>
-
-![ac7Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula) 
+<div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac7wesley&layout=compact&theme=dracula">
+</div>
 
 ### 🛠️⚙️ Habilidades em estudos / Hard Skills
 
