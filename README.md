@@ -7,15 +7,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac7wesley&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ac7wesley&theme=react&utcOffset=3)
 
-### 📱📧 Contatos
-
-<div>
-<a href="mailto:ac7wesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://web.whatsapp.com/send/?phone=5562996173322"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://github.com/ac7wesley"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-
 ### 📘📜Tecnologias:
 <div style="display: inline_block">
 <a href="https://www.oracle.com/developer/dev-tour/" target="_blank" rel="noopener noreferrer">
@@ -30,7 +21,13 @@
    <img align="center" alt="ac7wesley react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg"></a> 
 <br><br>
 </div>
+### 📱📧 Contatos
 
+<div>
+<a href="mailto:ac7wesley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://web.whatsapp.com/send/?phone=5562996173322"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://github.com/ac7wesley"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ac7wesley&theme=react)
 
 
